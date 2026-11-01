@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OpenTV.cr" tvg-name="OPEN TV" group-title="Costa Rica",OPEN TV
+https://live.openradiocr.net/adaptive/master.m3u8
